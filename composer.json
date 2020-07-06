@@ -1,0 +1,19 @@
+{
+    "name": "sharminshanta/php-utility",
+    "description": "Some PHP Utilities",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "php-utility",
+            "email": "shantaex81@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Sharminshanta\\Web\\PHPUtilities\\": "src/"
+        }
+    }
+}
