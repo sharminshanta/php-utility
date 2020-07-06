@@ -7,7 +7,7 @@ composer require sharminshanta/php-utility
 
 ```
 #### Usage
- - UUID
+ - Utility
    ```php 
    echo $uuid = \Sharminshanta\Web\PHPUtilities\Utility::generateUUID();
    echo $slug = \Sharminshanta\Web\PHPUtilities\Utility::generateSlugify("Sharmin Shanta");
